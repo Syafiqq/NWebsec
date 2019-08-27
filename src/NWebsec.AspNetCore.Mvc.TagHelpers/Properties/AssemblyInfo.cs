@@ -17,4 +17,9 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("beb586dd-fa0d-4123-a400-f5eac9cd9434")]
-[assembly: InternalsVisibleTo("NWebsec.AspNetCore.Mvc.TagHelpers.Tests")]
+[assembly: InternalsVisibleTo("NWebsec.AspNetCore.Mvc.TagHelpers.Tests,PublicKey=" +
+"0024000004800000940000000602000000240000525341310004000001000100217f87d6355153" +
+"09aba0764382f33000b79badebd0763c53e802a737de93cfc507a3e8e0b5b259ffbddde01b395c" +
+"fb904a91a74fd7fc600d96ca9e6c83bcf9d973c365fdc76e70ae2cdef8516d717f462a3d1ed292" +
+"817f7a942fa859bbc9c1ecd6ea3ae1de69e97d186648d5982bf88a703b1cacbfa922465a01e6f4" +
+"2414cec3")]
